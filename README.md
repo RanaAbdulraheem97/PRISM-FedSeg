@@ -1,2 +1,3 @@
-# PRISM-FedSeg
-PRISM-FedSeg: federated learning based medical image segmentation
+PRISM-Fedseg for segmentation of colorectal polyp
+PRISM-Fedseg for segmentation of colorectal Breast Tumor
+PRISM-Fedseg for segmentation of colorectal Brain Tumor
